@@ -10,7 +10,7 @@ export const homepageText = `
   <p>They had a training wheels page for bozos like me.</p>
   <p>So I made this page for the managers, whoopee.</p>
   <p>The league has drafted and we've gotten our picks in.</p>
-  <p>Anthony Dixon.</p>
+  <p>In the words of Clor, "Anthony Dixon".</p>
   
 `;
 
